@@ -1,0 +1,16 @@
+<div>   <div class="plat-rightMain"><section class="manageWork"><div class="platform-con chapterFigure chapterManage-novel"><div class="cartoonCrumbs"><a href="/writings/book" class="selected">作品管理</a> <a href="/writings/book" class="selected">&gt; 文学作品</a> <span> &gt; 章节管理</span></div> <div class="chapterWrap"><dl class="chapterInfo"><dt>幽州判官
+                            <span class="chapterTitle-media">共<em>1</em>卷，<em>0</em>章</span></dt> <dd><a href="javascript:void(0)" rseat="705021_wenxue18" class="handleBtn createChapter">新建分卷</a> <span class="chapterCondition"><span rseat="705021_wenxue19" class="workCheck checked"><em>全部</em></span><span rseat="705021_wenxue20" class="workCheck"><em>已发布</em></span><span rseat="705021_wenxue21" class="workCheck"><em>草稿</em></span></span></dd></dl> <div class="groupDataTb-wrap"><div class="articelTb-box"><div class="volumeChapter"><ul class="volumeChapterList"><li class="volumeChapterTh " style="overflow: hidden;"><div class="volumeChapterTh-td volumeChapter-name">
+                                            卷/章节名称
+                                        </div> <div class="volumeChapterTh-td volumeChapter-update">
+                                            更新时间
+                                        </div> <div class="volumeChapterTh-td volumeChapter-sum">
+                                            章节字数
+                                        </div> <div class="volumeChapterTh-td volumeChapter-publishState">
+                                            发布状态
+                                        </div> <div class="volumeChapterTh-td volumeChapter-checkState">
+                                            审核状态
+                                        </div> <div class="volumeChapterTh-td volumeChapter-handle">
+                                            操作
+                                        </div></li> <div class="loading dn" style="padding-bottom: 80px;"><p>加载中，请稍候</p></div> <!----> <li class="volumeTr opening"><div class="volumeLine"><div class="volumeName"><i class=""></i> <span class="workLimit20">第1卷：正文
+                                            </span></div> <div class="workHandleTd"><a href="javascript:;" rseat="705021_wenxue22" class="editWorkLink">修改分卷</a> <a href="/writings/book/100196352/chapter/add?bookName=%E5%B9%BD%E5%B7%9E%E5%88%A4%E5%AE%98&amp;volumeId=104448106" class="addChapterLink" rseat="705021_wenxue23">写新章节
+                                                    </a></div></div> <ul class="chapterTrList"></ul></li> <!----></ul></div></div></div></div></div> <!----></section></div> <div class="iopen-scrollBar"><!----> <ul class="plat-scrollbar-inner"><li><div class="outer"><i class="mp-svgicon svg-opinion"></i> <span class="text" rseat="rf_yjfk" dt="b">意见反馈</span></div></li> <!---->  <!----> <li><div class="outer"><i class="mp-svgicon svg-sidebarQuestion"></i> <span class="text">常见问题</span></div></li> <li title="回顶部" alt="回顶部"><div class="outer"><i class="mp-svgicon svg-toTop"></i> <span class="text">返回顶部</span></div></li></ul></div></div>
